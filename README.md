@@ -202,3 +202,5 @@ Fidget Ball is available under the MIT License. See [LICENSE](LICENSE).
 Unless noted otherwise, the source code and bundled project assets are covered by the same license.
 
 This project is independent and is not affiliated with any other fidget or menu-bar app.
+
+Rebuild after a wiped drive: see [RESTORE.md](RESTORE.md).
